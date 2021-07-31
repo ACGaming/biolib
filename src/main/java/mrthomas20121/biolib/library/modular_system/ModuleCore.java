@@ -45,4 +45,5 @@ public abstract class ModuleCore {
     }
 
 
+    public abstract boolean isLoaded();
 }
